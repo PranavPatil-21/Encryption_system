@@ -14,3 +14,6 @@ the master key in the AES encryption system is pseudo-random. The method we aim 
 build should increase the randomness of the master key or round key generation, which
 the AES uses. This will increase the cryptanalysis time by a considerable amount for
 already difficult AES systems.
+[![Video Title](https://img.youtube.com/vi/B-AcP8jIlJc/1.jpg)](https://www.youtube.com/watch?v=B-AcP8jIlJc)
+> Live working  of the website 
+
